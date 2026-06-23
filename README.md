@@ -4,7 +4,7 @@ The repository contains the schedule and slides for lightning talk presentations
 ---
 
 ## Day 1 — Lightning Talks
-**June 23, 2026 · 3:30–5:00 pm**
+**June 23, 2026 · 3:30–4:45 pm**
 
 | Time | Speaker | Institution | Talk Title |
 |------|---------|-------------|------------|

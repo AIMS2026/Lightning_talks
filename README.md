@@ -10,10 +10,11 @@ The repository contains the schedule and slides for lightning talk presentations
 |------|---------|-------------|------------|
 | 3:30–3:45 pm | Jingjing Zou | University of California San Diego | Multimodal Learning for Wearable Health Data: From Raw Signals to Clinical Insight |
 | 3:45–4:00 pm | Weiwei Chen | Cornell University | Discover Multi-regional Neural Communication with Causal Representation Learning |
-<!-- | 4:00–4:15 pm | Xuhui Zhou | University of California San Diego | Neural Ensemble Kalman Filter: Data Assimilation for Compressible Flows with Shocks | unable to attend -->
 | 4:00–4:15 pm | Xin Wei | University of Michigan | Unveiling the Underappreciated Consequences of Landslides across the United States with Generative AI |
 | 4:15–4:30 pm | Joseph Osumeje | University of Michigan | Bridging the Lithological Gap: A Foundation Model Approach to Groundwater Assessment in Northern Nigeria |
 | 4:30–4:45 pm | Yuanhang Zhang | University of California San Diego | Scientific Discovery as Meta-Optimization and Beyond: Towards End-to-End Auto-Research |
+
+<!-- | 4:00–4:15 pm | Xuhui Zhou | University of California San Diego | Neural Ensemble Kalman Filter: Data Assimilation for Compressible Flows with Shocks | Unable to attend -->
 
 ---
 
